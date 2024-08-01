@@ -1,0 +1,5 @@
+Nguyen Van An, 0901234567, 2, 3, Avengers: Endgame, Phong 1, 19:00, 140000
+Le Thi Mai, 0912345678, 1, 2, Spider-Man: No Way Home, Phong 2, 20:00, 80000
+Tran Van Nam, 0923456789, 3, 1, Doctor Strange, Phong 1, 21:00, 140000
+Hoang Thi Lan, 0934567890, 0, 4, Minions, Phong 3, 18:00, 80000
+Vu Van Hoa, 0945678901, 2, 1, Batman, Phong 2, 20:00, 100000
